@@ -1,3 +1,5 @@
+<img src="cpu.png" alt="CPU" width="360">
+
 # SPARC プロセッサメモ
 
 SPARCプロセッサを扱ったときの個人メモです。  
